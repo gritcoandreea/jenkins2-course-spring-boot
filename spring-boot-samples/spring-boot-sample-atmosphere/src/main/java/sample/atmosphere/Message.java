@@ -19,6 +19,7 @@ package sample.atmosphere;
 import java.util.Date;
 
 public class Message {
+	//This is a comment :)
 
 	private String message;
 
